@@ -3,18 +3,20 @@
 <h3 align="center">A passionate AWS Cloud Computing Engineer | AWS Cloud developer from the United States</h3>
 <h5 alingn="center"> Hello everyone! My name is Isaac Tabeh. People call me "Serverless" because I think of a serverless-first approach on AWS for solutions implementation. I am a customer-centric AWS Cloud Developer, DevOps Engineer, and Cloud Enthusiast with over 8+ years of experience automating infrastructure provisioning and deploying AWS Serverless Application Model (SAM) to production servers, serving ten million+ users worldwide. I configured secure cloud-based solutions for companies to optimize their resources so they can increase revenue by 98% and reduce operating costs to 79%. I live in the beautiful city of Katy, west of Houston katy.</h5> 
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m currently working on [AWS Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
+
+- 🌱 I’m currently working on [AWS Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
 
 - 🌱 I’m currently learning **AI, ML & Robotics Courses** (https://aws.amazon.com/machine-learning)
+  
 - 🌱 The future is Green with Generative AI (https://aws.amazon.com/generative-ai)
 
-- 👯 I’m looking to collaborate on [Severless project](https://aws.amazon.com/serverless/)
+- 🌱 I’m looking to collaborate on [Severless project](https://aws.amazon.com/serverless/)
 
-- 🤝 I’m looking for help with [Java Project](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
+- 🌱 I’m looking for help with [Java Project](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
 
-- 💬 Ask me about **AWS Cloud Computing, Serverless Computing**
+- 🌱 Ask me about **AWS Cloud Computing, Serverless Computing**
 
-- 📫 How to reach me **isaacawscloud@gmail.com**
+- 🌱 How to reach me **isaacawscloud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
