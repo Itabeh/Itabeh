@@ -5,13 +5,13 @@
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on [AWS Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
 
-- 🌱 I’m currently learning **AI, ML & Robotics Courses**
+- 🌱 I’m currently learning **AI, ML & Robotics Courses** (https://aws.amazon.com/machine-learning/)
 
 - 👯 I’m looking to collaborate on [Severless project](https://aws.amazon.com/serverless/)
 
 - 🤝 I’m looking for help with [Java Project](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
 
-- 💬 Ask me about **AWS Cloud Computing, Severless Computing**
+- 💬 Ask me about **AWS Cloud Computing, Serverless Computing**
 
 - 📫 How to reach me **isaacawscloud@gmail.com**
 
