@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [AWS Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
 
 - 🌱 I’m currently learning **AI, ML & Robotics Courses** (https://aws.amazon.com/machine-learning)
-- 🌱 The future is Green with Generative AI **AI (https://aws.amazon.com/generative-ai)
+- 🌱 The future is Green with Generative AI (https://aws.amazon.com/generative-ai)
 
 - 👯 I’m looking to collaborate on [Severless project](https://aws.amazon.com/serverless/)
 
