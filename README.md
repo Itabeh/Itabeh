@@ -1,6 +1,6 @@
 ![logo](https://github.com/Itabeh/Isaac-tabeh/blob/77968489f0a5d5ec5f1f5219b3498d3d35b6cd3b/Screenshot%202023-09-12%20at%2010.33.42%20AM.png)
 <h1 align="center">Hi 👋, I'm Isaac Tabeh</h1>
-<h3 align="center">A passionate Cloud Computing Engineer / Cloud developer from United States</h3>
+<h3 align="center">A passionate Cloud Computing Engineer | Cloud developer from the United States</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on [Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
 
