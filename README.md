@@ -16,7 +16,7 @@
 
 - 🌱 Ask me about **AWS Cloud Computing, Serverless Computing**
 
-- 🌱 How to reach me **isaacawscloud@gmail.com**
+- 🌱 How to reach me **isaacdevsecops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
