@@ -21,6 +21,9 @@
 
 - 🌱 How to reach me **isaacdevsecops@gmail.com**
 
+  ![image](https://github.com/user-attachments/assets/b555d030-756f-44d6-860f-0b25ba5f9a3d)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-n-tabeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-n-tabeh" height="30" width="40" /></a>
