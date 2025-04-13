@@ -21,7 +21,8 @@
 
 - 🌱 How to reach me **isaacdevsecops@gmail.com**
 
-  ![image](https://github.com/user-attachments/assets/b555d030-756f-44d6-860f-0b25ba5f9a3d)
+- <img width="210" alt="image" src="https://github.com/user-attachments/assets/5087dea7-3e88-4bd2-a548-f89575dd8ce0" />
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/f337a496-2a03-4fa9-af96-0832f73d5fca" />
 
 
 <h3 align="left">Connect with me:</h3>
