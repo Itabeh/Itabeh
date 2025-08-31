@@ -1,11 +1,11 @@
 ![logo](https://github.com/Itabeh/Itabeh/blob/main/AI.png)
 <h1 align="center">Hi 👋, I'm Isaac Tabeh</h1>
-<h3 align="center">A passionate Flutter Developer based in Austin, Texas </h3>
-<h5 alingn="center"> Hello everyone! My name is Isaac Tabeh. My favorite programming language is Dart because we do not need C and C++. Don't ask me "why" because they are obsolete. People call me "FlutterDev" because I think of a Dart Flutter-first approach for mobile app solutions. I am a customer-centric Cloud Engineer, Flutter Developer, and Google Cloud Enthusiast with over 8 years of experience building effective cross-platform applications, testing, and debugging apps, serving more than ten million users worldwide. I create and ship apps for Android, iOS, Web, and Windows devices using a single codebase, which increases revenue by 98% and reduces operating costs by 79%. I live in the beautiful city of Austin. </h5> 
+<h3 align="center">A passionate AI Cybersecurity Architect based in Austin, Texas </h3>
+<h5 alingn="center"> Hello everyone! My name is Isaac Tabeh. My favorite programming language is GO because it eliminates the need for C and C++. Don't ask me "why" because they are obsolete. People call me "GO LANG" because I advocate for the GO-first approach to mobile app solutions. I am a customer-centric AI Cloud Security Engineer and Google Cloud Enthusiast with over 8 years of experience building effective cross-platform applications, testing, and debugging apps, serving more than ten million users worldwide. I create and ship apps for Android, iOS, Web, and Windows devices using a single codebase, which increases revenue by 98% and reduces operating costs by 79%. I live in the beautiful city of Austin. </h5> 
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🌱 I’m currently working on [Flutter](https://flutter.dev/)
+ 
   
 - 🌱 I’m currently working on [Google Cloud certifications](https://cloud.google.com/)
 
@@ -13,9 +13,9 @@
   
 - 🌱 The future is Green with Google AI (https://gemini.google.com/app)
 
-- 🌱 I’m looking to collaborate on [Flutter Project]
+ 
 
-- 🌱 I’m looking for help with [Dart Project]
+ 
 
 - 🌱 Ask me about **AI Cloud Security, Cybersecurity, GO**
 
