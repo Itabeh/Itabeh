@@ -17,7 +17,7 @@
 
 - 🌱 I’m looking for help with [Dart Project]
 
-- 🌱 Ask me about **Flutter, Dart, Firebase**
+- 🌱 Ask me about **AI Cloud Security, Cybersecurity, GO**
 
 - 🌱 How to reach me **isaacdevsecops@gmail.com**
 
